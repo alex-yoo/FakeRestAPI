@@ -7,31 +7,31 @@
         "remain" : 13241,
         "datapoints" : [
           {
-            "datetime" : "2020-02-04 13:00:00"
+            "datetime" : "2020-02-04 13:00:00",
             "throughput" : 100
           },
           {
-            "datetime" : "2020-02-04 13:05:03"
+            "datetime" : "2020-02-04 13:05:03",
             "throughput" : 121
           },
           {
-            "datetime" : "2020-02-04 13:10:13"
+            "datetime" : "2020-02-04 13:10:13",
             "throughput" : 103
           },
           {
-            "datetime" : "2020-02-04 13:15:00"
+            "datetime" : "2020-02-04 13:15:00",
             "throughput" : 212
           },
           {
-            "datetime" : "2020-02-04 13:20:21"
+            "datetime" : "2020-02-04 13:20:21",
             "throughput" : 320
           },
           {
-            "datetime" : "2020-02-04 13:25:10"
+            "datetime" : "2020-02-04 13:25:10",
             "throughput" : 720
           },
           {
-            "datetime" : "2020-02-04 13:30:00"
+            "datetime" : "2020-02-04 13:30:00",
             "throughput" : 1022
           }
         ]
@@ -42,31 +42,31 @@
         "remain" : 0,
         "datapoints" : [
           {
-            "datetime" : "2020-02-04 13:00:00"
+            "datetime" : "2020-02-04 13:00:00",
             "throughput" : 0
           },
           {
-            "datetime" : "2020-02-04 13:05:03"
+            "datetime" : "2020-02-04 13:05:03",
             "throughput" : 1
           },
           {
-            "datetime" : "2020-02-04 13:10:13"
+            "datetime" : "2020-02-04 13:10:13",
             "throughput" : 2
           },
           {
-            "datetime" : "2020-02-04 13:15:00"
+            "datetime" : "2020-02-04 13:15:00",
             "throughput" : 0
           },
           {
-            "datetime" : "2020-02-04 13:20:21"
+            "datetime" : "2020-02-04 13:20:21",
             "throughput" : 2
           },
           {
-            "datetime" : "2020-02-04 13:25:10"
+            "datetime" : "2020-02-04 13:25:10",
             "throughput" : 1
           },
           {
-            "datetime" : "2020-02-04 13:30:00"
+            "datetime" : "2020-02-04 13:30:00",
             "throughput" : 0
           }
         ]
@@ -77,31 +77,31 @@
         "remain" : 0,
         "datapoints" : [
           {
-            "datetime" : "2020-02-04 13:00:00"
+            "datetime" : "2020-02-04 13:00:00",
             "throughput" : 133
           },
           {
-            "datetime" : "2020-02-04 13:05:03"
+            "datetime" : "2020-02-04 13:05:03",
             "throughput" : 200
           },
           {
-            "datetime" : "2020-02-04 13:10:13"
+            "datetime" : "2020-02-04 13:10:13",
             "throughput" : 311
           },
           {
-            "datetime" : "2020-02-04 13:15:00"
+            "datetime" : "2020-02-04 13:15:00",
             "throughput" : 420
           },
           {
-            "datetime" : "2020-02-04 13:20:21"
+            "datetime" : "2020-02-04 13:20:21",
             "throughput" : 212
           },
           {
-            "datetime" : "2020-02-04 13:25:10"
+            "datetime" : "2020-02-04 13:25:10",
             "throughput" : 102
           },
           {
-            "datetime" : "2020-02-04 13:30:00"
+            "datetime" : "2020-02-04 13:30:00",
             "throughput" : 78
           }
         ]
@@ -112,31 +112,31 @@
         "remain" : 0,
         "datapoints" : [
           {
-            "datetime" : "2020-02-04 13:00:00"
+            "datetime" : "2020-02-04 13:00:00",
             "throughput" : 0
           },
           {
-            "datetime" : "2020-02-04 13:05:03"
+            "datetime" : "2020-02-04 13:05:03",
             "throughput" : 1
           },
           {
-            "datetime" : "2020-02-04 13:10:13"
+            "datetime" : "2020-02-04 13:10:13",
             "throughput" : 2
           },
           {
-            "datetime" : "2020-02-04 13:15:00"
+            "datetime" : "2020-02-04 13:15:00",
             "throughput" : 3
           },
           {
-            "datetime" : "2020-02-04 13:20:21"
+            "datetime" : "2020-02-04 13:20:21",
             "throughput" : 7
           },
           {
-            "datetime" : "2020-02-04 13:25:10"
+            "datetime" : "2020-02-04 13:25:10",
             "throughput" : 10
           },
           {
-            "datetime" : "2020-02-04 13:30:00"
+            "datetime" : "2020-02-04 13:30:00",
             "throughput" : 0
           }
         ]
@@ -147,31 +147,31 @@
         "remain" : 121760,
         "datapoints" : [
           {
-            "datetime" : "2020-02-04 13:00:00"
+            "datetime" : "2020-02-04 13:00:00",
             "throughput" : 431
           },
           {
-            "datetime" : "2020-02-04 13:05:03"
+            "datetime" : "2020-02-04 13:05:03",
             "throughput" : 430
           },
           {
-            "datetime" : "2020-02-04 13:10:13"
+            "datetime" : "2020-02-04 13:10:13",
             "throughput" : 870
           },
           {
-            "datetime" : "2020-02-04 13:15:00"
+            "datetime" : "2020-02-04 13:15:00",
             "throughput" : 1100
           },
           {
-            "datetime" : "2020-02-04 13:20:21"
+            "datetime" : "2020-02-04 13:20:21",
             "throughput" : 1500
           },
           {
-            "datetime" : "2020-02-04 13:25:10"
+            "datetime" : "2020-02-04 13:25:10",
             "throughput" : 1760
           },
           {
-            "datetime" : "2020-02-04 13:30:00"
+            "datetime" : "2020-02-04 13:30:00",
             "throughput" : 2000
           }
         ]
