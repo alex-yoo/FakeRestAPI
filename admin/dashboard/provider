@@ -1,0 +1,40 @@
+{
+  "data" : {
+    "services" : [
+      {
+        "title" : "sms",
+        "current" : "SKT",
+        "state" : "healthy",
+        "providers" : [
+          "SKT",
+          "LGU"
+        ]
+      },
+      {
+        "title" : "fax",
+        "current" : "LGU",
+        "state" : "healthy",
+        "providers" : [
+          "LGU"
+        ]
+      },
+      {
+        "title" : "email",
+        "current" : "MY",
+        "state" : "healthy",
+        "providers" : [
+          "MYMAIL",
+          "SES"
+        ]
+      },
+      {
+        "title" : "talk",
+        "current" : "TALK",
+        "state" : "healthy",
+        "providers" : [
+          "TALK"
+        ]
+      }
+    ]
+  }
+}
