@@ -1,0 +1,73 @@
+{
+  "data" : {
+    "services" : [
+      {
+        "title" : "api",
+        "current" : 2,
+        "min" : 2,
+        "max" : 4,
+        "servers" : [
+          {
+            "id" : "i-00b72da2c0e85b6ac",
+            "privateip" : "20.0.32.137",
+            "datetime" : "2019-11-12 13:56:23"
+          },
+          {
+            "id" : "i-0ccd6d728516717d9",
+            "privateip" : "20.0.89.169",
+            "datetime" : "2020-01-14 04:33:40"
+          }
+        ]
+      },
+      {
+        "title" : "worker",
+        "current" : 2,
+        "min" : 2,
+        "max" : 8,
+        "servers" : [
+          {
+            "id" : "i-0z405340f8z80861c",
+            "privateip" : "20.0.32.24",
+            "datetime" : "2020-01-22 15:05:48"
+          },
+          {
+            "id" : "i-0e9adddb2684e1bef",
+            "privateip" : "20.0.89.217",
+            "datetime" : "2020-01-22 14:57:46"
+          }
+        ]
+      },
+      {
+        "title" : "event",
+        "current" : 2,
+        "min" : 2,
+        "max" : 4,
+        "servers" : [
+          {
+            "id" : "i-5386685a51ce7fded",
+            "privateip" : "20.0.32.206",
+            "datetime" : "2020-01-22 15:06:10"
+          },
+          {
+            "id" : "i-1fc361dc58744185c",
+            "privateip" : "20.0.89.44",
+            "datetime" : "2019-11-12 13:56:29"
+          }
+        ]
+      },
+      {
+        "title" : "config",
+        "current" : 1,
+        "min" : 1,
+        "max" : 1,
+        "servers" : [
+          {
+            "id" : "i-0e6a2he03024eqb88",
+            "privateip" : "20.0.89.213",
+            "datetime" : "2020-01-14 04:30:29"
+          }
+        ]
+      }
+    ]
+  }
+}
