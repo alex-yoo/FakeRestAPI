@@ -2,9 +2,9 @@
   "data": {
     "services": [
       {
-        "title" : "sms"
-        "throughput" : 1022
-        "remain" : 13241
+        "title" : "sms",
+        "throughput" : 1022,
+        "remain" : 13241,
         "datapoints" : [
           {
             "datetime" : "2020-02-04 13:00:00"
@@ -37,9 +37,9 @@
         ]
       },
       {
-        "title" : "fax"
-        "throughput" : 0
-        "remain" : 0
+        "title" : "fax",
+        "throughput" : 0,
+        "remain" : 0,
         "datapoints" : [
           {
             "datetime" : "2020-02-04 13:00:00"
@@ -72,9 +72,9 @@
         ]
       },
       {
-        "title" : "email"
-        "throughput" : 78
-        "remain" : 0
+        "title" : "email",
+        "throughput" : 78,
+        "remain" : 0,
         "datapoints" : [
           {
             "datetime" : "2020-02-04 13:00:00"
@@ -107,9 +107,9 @@
         ]
       },
       {
-        "title" : "talk"
-        "throughput" : 0
-        "remain" : 0
+        "title" : "talk",
+        "throughput" : 0,
+        "remain" : 0,
         "datapoints" : [
           {
             "datetime" : "2020-02-04 13:00:00"
@@ -142,9 +142,9 @@
         ]
       },
       {
-        "title" : "push"
-        "throughput" : 2000
-        "remain" : 121760
+        "title" : "push",
+        "throughput" : 2000,
+        "remain" : 121760,
         "datapoints" : [
           {
             "datetime" : "2020-02-04 13:00:00"
